@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# cloud_lms_project
+A cloud-based Learning Management System (LMS) using AWS Free Tier services (S3, Lambda, DynamoDB, Cognito, API Gateway, SNS, CloudFront).
+>>>>>>> 039c860c6e74b8e8659b3796c27f3701e9fab4de
