@@ -5,6 +5,8 @@ import "./App.css";
 // ✅ Import your actual styled pages
 import LoginPage from "./pages/Login";
 import Signup from "./pages/Signup";
+import StudentDashboard from "./pages/StudentDashboard";
+import TeacherDashboard from "./pages/TeacherDashboard";
 
 // Home page
 function Home() {
@@ -36,6 +38,8 @@ export default function App() {
         <Route path="/" element={<Home />} />
         <Route path="/login" element={<LoginPage />} />
         <Route path="/signup" element={<Signup />} />
+        <Route path="/student" element={<StudentDashboard />} />
+        <Route path="/teacher" element={<TeacherDashboard />} />
       </Routes>
     </BrowserRouter>
   );
